@@ -5,6 +5,6 @@
 - [四、编程语言](编程语言.md)
 - [五、版本控制](版本控制.md)
 - [六、人工智能/大数据](人工智能_大数据.md)
-- [七、其他](#其他.md)
+- [七、其它综合](#其它综合.md)
 ## 一、IDE
 [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
